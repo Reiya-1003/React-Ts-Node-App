@@ -1,0 +1,15 @@
+.bg {
+  /*位置の設定*/
+  width: 150%;
+  height: 150%;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  /*背景画像の設定*/
+  　background: center;
+  background-size: cover;
+
+  /*透過の設定*/
+  opacity: 0.5;
+}

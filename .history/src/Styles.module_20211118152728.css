@@ -1,0 +1,23 @@
+.headimgbox {
+  /* width: 50%;
+  margin: 0 auto;
+  margin-top: 50px; */
+}
+.headimg {
+  margin-top: 50px;
+  width: 1000px;
+  height: auto;
+}
+
+.poster {
+  width: 100px;
+  height: 200px;
+}
+.boxnav {
+  position: absolute;
+  left: 0;
+}
+
+.title {
+  color: white;
+}

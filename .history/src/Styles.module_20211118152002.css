@@ -1,0 +1,19 @@
+.headimgbox {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.headimg {
+  position: absolute;
+  width: 100px;
+  height: auto;
+}
+
+.poster {
+  width: 100px;
+  height: 200px;
+}
+.boxnav {
+  position: absolute;
+  left: 0;
+}

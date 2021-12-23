@@ -1,0 +1,38 @@
+.headimgbox {
+  /* width: 50%;
+  margin: 0 auto;
+  margin-top: 50px; */
+}
+.headimg {
+  margin-top: 30px;
+  width: 1000px;
+  height: auto;
+}
+
+.poster {
+  width: auto;
+  height: 200px;
+}
+.boxnav {
+  position: absolute;
+  left: 0;
+}
+
+.title {
+  color: white;
+  margin-top: 40px;
+  border-bottom: 1px solid white;
+}
+
+.headline {
+  font-size: 3.4rem;
+  font-style: italic;
+  letter-spacing: 0.1em;
+  color: rgb(243, 7, 7);
+  text-shadow: -3px 2px 0 rgb(248, 248, 248);
+  background-color: aqua;
+}
+
+.overview {
+  color: white;
+}

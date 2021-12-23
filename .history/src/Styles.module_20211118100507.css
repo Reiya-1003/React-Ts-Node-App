@@ -1,0 +1,15 @@
+.bg {
+  /*位置の設定*/
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  /*背景画像の設定*/
+  background: url("https://image.tmdb.org/t/p/w1280" + getItem.poster_path);
+  background-size: cover;
+
+  /*透過の設定*/
+  opacity: 0.5;
+}

@@ -1,0 +1,21 @@
+.box {
+  /* width: 100%; */
+  height: 400px;
+  position: relative;
+  overflow: hidden;
+  margin-top: 50px;
+}
+.boximg {
+  position: absolute;
+  width: 100px;
+  height: auto;
+}
+
+.poster {
+  width: 100px;
+  height: 200px;
+}
+.boxnav {
+  position: absolute;
+  left: 0;
+}

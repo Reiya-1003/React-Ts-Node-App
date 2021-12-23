@@ -1,0 +1,52 @@
+.App {
+  margin: 0;
+  padding: 0;
+}
+
+.headimgbox {
+  /* width: 50%;
+  margin: 0 auto;
+  margin-top: 50px; */
+}
+.headimg {
+  margin-top: 50px;
+  width: 1000px;
+  height: auto;
+}
+
+.poster {
+  width: auto;
+  height: 350px;
+}
+.boxnav {
+  position: absolute;
+  left: 0;
+}
+
+.title {
+  color: white;
+  margin-top: 40px;
+  border-bottom: 1px solid white;
+}
+
+.headline {
+  margin: 0;
+  padding: 0;
+}
+
+.headlinebox {
+  padding: 0.5em 1em;
+  background-color: red;
+  color: #fff;
+  margin: 10px 900px 0px 13px;
+}
+
+.overview {
+  color: white;
+}
+
+.eroorbackfot {
+  text-align: center;
+  line-height: 30;
+  color: #fff;
+}

@@ -1,0 +1,21 @@
+.box {
+  width: 100%;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+  position: absolute;
+}
+.boximg {
+  width: auto;
+  height: auto;
+  min-width: 100%;
+  min-height: 100%;
+  max-width: inherit;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  opacity: 0.5;
+}
